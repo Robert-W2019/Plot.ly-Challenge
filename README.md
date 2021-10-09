@@ -75,10 +75,10 @@
 
 <h2 id="deployment">Deployment</h2>
 
+![Image1](https://raw.githubusercontent.com/Robert-W2019/Plot.ly-Challenge/main/Deployment%20images%20for%20Readme/Deployment%20image%201.JPG)
 
 
-
-
+![Image2](https://raw.githubusercontent.com/Robert-W2019/Plot.ly-Challenge/main/Deployment%20images%20for%20Readme/Deployment%20image%202.JPG)
 
 
 
